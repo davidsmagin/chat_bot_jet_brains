@@ -1,1 +1,1 @@
-# chat_bot_jet_brains
+# chat_bot_jetbrains
